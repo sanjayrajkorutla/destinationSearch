@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.destination-item{
+display:flex ;
+flex-direction: column;
+
+
+}
+.destination-image{
+width:30%;
+}
+.name{
+    size:10px;
+}
